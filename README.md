@@ -1,6 +1,6 @@
 NIM  : 2041720099
 Nama : Rofika Nur 'Aini
-Kelas: TI-2B
+Kelas: TI-3B
 
 ## Basic Widget Flutter
 
